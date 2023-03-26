@@ -1,6 +1,0 @@
-#Placeholder
-
-## Jeshin/Dev branch to merge
-### Test of Instructions
-
-<p>World</p>
