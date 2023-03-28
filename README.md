@@ -31,7 +31,7 @@ Step 4
 - Open web browser and go to https://github.com/JeshinBBRP/GitWorkFlow
 - Within the  repo click the green < > CODE button
 - Select HTTPS and copy the line
-- In the visual studio terminal type git clone <paste HTTPs line you copied>
+- In the visual studio terminal type git clone <b>paste HTTPs line you copied</b>
 - Login to github via pop up
 
 Step 5
